@@ -1,0 +1,2 @@
+npm init //create package json
+npm install <package name> --save // install package and add dependencies to package json
